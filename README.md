@@ -7,7 +7,7 @@
 	<meta name="description" content="">
 	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
 	
-	<title>Tim St. Onge</title>
+	<title>Jacob T. Hogue</title>
 
 	<link rel="shortcut icon" href="assets/images/gt_favicon.png">
 	
@@ -32,7 +32,7 @@
 	<div id="head" class="parallax" parallax-speed="2">
 		<h1 id="logo" class="text-center">
 			<img class="img-circle" src="https://avatars0.githubusercontent.com/u/7945788?s=460&v=4" alt="">
-			<span class="title"><strong>Tim St. Onge</strong></span>
+			<span class="title"><strong>Jacob T. Hogue</strong></span>
 			<span class="tagline"><strong>Cartography, data analysis, and all things Geo</strong></span>
 				<span class="widget-body text-center">
 						<a href="https://github.com/TimStOnge" target="_blank" style="color: #17252A"><i class="fa fa-github fa-2 "></i></a>
@@ -52,8 +52,8 @@
 			<div class="navbar-collapse collapse">
 
 				<ul class="nav navbar-nav">
-					<li><a href="https://timstonge.github.io/" class="highlight"><strong>Home</strong></a></li>
-					<!-- <li class="active"><a href="https://timstonge.github.io/" class="highlight">Home</a></li> -->
+					<li><a href="https://jhogue7.github.io/jacobhogue.github.io/" class="highlight"><strong>Home</strong></a></li>
+					<!-- <li class="active"https://jhogue7.github.io/jacobhogue.github.io/" class="highlight">Home</a></li> -->
 					<li><a href="https://timstonge.github.io/about.html" class="highlight">Resume</a></li>
 					<li><a href="https://timstonge.github.io/blog.html" class="highlight">Blog</a></li>
 				</ul>
