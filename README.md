@@ -31,7 +31,7 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="2">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="https://avatars0.githubusercontent.com/u/7945788?s=460&v=4" alt="">
+			<img class="img-circle" src="https://avatars3.githubusercontent.com/u/35144268?s=400&u=543a0c71a59e40d1e89449731f84e68b2b412aee&v=4" alt="">
 			<span class="title"><strong>Jacob T. Hogue</strong></span>
 			<span class="tagline"><strong>Cartography, data analysis, and all things Geo</strong></span>
 				<span class="widget-body text-center">
